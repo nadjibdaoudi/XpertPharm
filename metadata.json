@@ -1,0 +1,6 @@
+{
+  "name": "XpertPharm DZ - Système de Gestion d'Officine & CHIFA",
+  "description": "Système professionnel complet de gestion de pharmacie d'officine algérienne conforme à la réglementation (CHIFA, CNAS, CASNOS, nomenclature PPA/SHP, registre des psychotropes, gestion des stocks par lots et DLU).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
